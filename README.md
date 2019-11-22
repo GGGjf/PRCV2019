@@ -1,5 +1,7 @@
 #using efficientNet pre_model from :https://github.com/lukemelas/EfficientNet-PyTorch  
-#team:daixiangzi,GGGjf  
+#team:  
+daixiangzi:https://github.com/daixiangzi  
+GGGjf  
 #PRCV 2019  
 农业病虫害识别     
 
